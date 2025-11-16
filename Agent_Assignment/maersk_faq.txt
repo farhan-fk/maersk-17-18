@@ -1,0 +1,179 @@
+# MAERSK SHIPPING - FREQUENTLY ASKED QUESTIONS (FAQ)
+
+## SHIPPING POLICIES
+
+### What are your shipping times?
+Standard shipping times vary by route:
+- Asia to North America: 14-18 days
+- Europe to North America: 10-14 days
+- Asia to Europe: 25-35 days
+- Intra-Asia routes: 7-14 days
+Express shipping options are available for time-sensitive cargo at additional cost.
+
+### What documents do I need for international shipping?
+Required documents include:
+1. Commercial Invoice (3 copies minimum)
+2. Packing List
+3. Bill of Lading (B/L)
+4. Certificate of Origin (for certain countries)
+5. Export/Import licenses (if applicable)
+6. Insurance certificate (recommended)
+
+All documents must be in English or accompanied by certified translations.
+
+### How do I track my shipment?
+You can track your shipment using:
+- Container number (e.g., MAEU1234567)
+- Bill of Lading number
+- Booking reference number
+Visit our online tracking portal or contact customer service for real-time updates.
+
+## CUSTOMS AND REGULATIONS
+
+### What items are prohibited from shipping?
+Maersk strictly prohibits:
+- Weapons and ammunition
+- Illegal drugs and narcotics
+- Counterfeit goods
+- Live animals (except with special permits)
+- Radioactive materials
+- Unpackaged hazardous materials
+
+### Do you handle dangerous goods?
+Yes, we transport dangerous goods (DG) classified under IMDG Code classes 1-9, provided:
+- Proper documentation is submitted 7 days before shipment
+- Goods are properly packed and labeled per IMDG regulations
+- DG declaration form is completed by certified personnel
+- Additional fees apply based on class and quantity
+
+### What are the customs clearance requirements?
+Customs clearance requires:
+- Accurate commodity codes (HS codes)
+- Declared value matching commercial invoice
+- Payment of duties and taxes
+- Compliance with destination country regulations
+Processing time: 2-5 business days (varies by country)
+
+## PRICING AND PAYMENT
+
+### How is shipping cost calculated?
+Shipping costs are based on:
+1. Container type (20ft, 40ft, 40ft High Cube)
+2. Weight and volume
+3. Origin and destination ports
+4. Freight class
+5. Fuel surcharges
+6. Port handling fees
+7. Customs clearance fees
+
+Request a quote online or contact our sales team for accurate pricing.
+
+### What payment methods do you accept?
+We accept:
+- Wire transfer (preferred for large shipments)
+- Credit cards (Visa, MasterCard, AmEx)
+- Company account with credit terms (approved customers only)
+- Letter of Credit (L/C) for international transactions
+
+Payment terms: Net 30 days for approved accounts, prepayment for new customers.
+
+## CONTAINER INFORMATION
+
+### What container types are available?
+Standard containers:
+- 20ft Standard (TEU): 33.2m³ capacity, max 28,000 kg
+- 40ft Standard (FEU): 67.6m³ capacity, max 28,500 kg
+- 40ft High Cube: 76.3m³ capacity, max 28,600 kg
+
+Specialized containers:
+- Refrigerated containers (reefers)
+- Open-top containers
+- Flat rack containers
+- Tank containers
+
+### Can I share a container with other shippers?
+Yes! We offer Less than Container Load (LCL) services where multiple shippers share container space.
+Benefits:
+- Cost-effective for smaller shipments
+- Pay only for space used
+- Regular weekly departures
+Minimum: 1 cubic meter (CBM)
+
+## RETURNS AND CANCELLATIONS
+
+### What is your cancellation policy?
+Cancellation terms:
+- More than 7 days before shipping: Full refund minus 10% processing fee
+- 3-7 days before shipping: 50% refund
+- Less than 3 days: No refund (rescheduling available with fees)
+
+For force majeure events (weather, port closures), full refund or rescheduling at no cost.
+
+### Can I return a shipment?
+Return shipments are subject to:
+- Return authorization number (RAN) required
+- Return shipping fees apply
+- Customs clearance fees non-refundable
+- Goods must be in original condition
+- Perishable goods cannot be returned
+
+Process: Contact customer service within 48 hours of delivery to initiate return.
+
+## INSURANCE
+
+### Is cargo insurance included?
+Basic liability coverage is included (max $500 per package or $2/kg, whichever is less).
+For full value coverage, we offer:
+- All-Risk Marine Insurance: Covers loss, damage, theft (recommended)
+- Total Loss Only: Covers complete loss of container
+- Premium rates: 0.5-2% of cargo value
+
+### What does insurance cover?
+All-Risk Marine Insurance covers:
+- Physical loss or damage during transit
+- General average contributions
+- Theft and piracy
+- Weather-related damage
+- Container damage
+
+Exclusions: War, strikes, inherent vice, improper packing, delays.
+
+## SPECIAL SERVICES
+
+### Do you offer door-to-door delivery?
+Yes! Our logistics division provides:
+- Pick-up from supplier warehouse
+- Customs clearance at origin and destination
+- Ocean freight
+- Final delivery to your warehouse
+- Real-time tracking throughout
+
+Available in 150+ countries worldwide.
+
+### What is your temperature-controlled shipping capability?
+Our refrigerated containers (reefers) maintain:
+- Temperature range: -35°C to +30°C
+- Humidity control available
+- Continuous monitoring and alerts
+- Backup power systems
+- Pre-trip inspections
+
+Ideal for: Pharmaceuticals, perishable foods, chemicals, plants.
+
+## CONTACT AND SUPPORT
+
+### How can I contact customer support?
+Available 24/7:
+- Phone: +1-800-MAERSK-1 (Global hotline)
+- Email: support@maersk.com
+- Live Chat: Available on website
+- Regional offices: Contact your local branch
+
+Average response time: 2 hours during business hours, 4 hours after hours.
+
+### What are your business hours?
+Customer service: 24/7 year-round
+Office hours: Monday-Friday, 8:00 AM - 6:00 PM (local time)
+Emergency hotline: Available 24/7 for urgent shipment issues
+
+Holidays: Office closed on major national holidays, but emergency support remains available.

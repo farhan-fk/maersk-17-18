@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.jsonl
+agent_logs.jsonl
+demo_logs.jsonl
+cancellation_requests.jsonl
+email_log.jsonl
+
+# Output files
+*.csv
+ats_evaluation_records.xlsx
+agent_performance.csv
+demo_performance.csv
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Audio files (if generated)
+*.mp3
+*.wav
+
+# Vector store files (if you want to exclude them)
+# kb_index.faiss
+# kb_meta.json

@@ -1,0 +1,57 @@
+flowchart TD
+    Start(["🚀 Start SQL Workflow"])
+    
+    CreateDB["📦 create_transactions_db()<br/>Create SQLite Database<br/>with Event-Sourced Data"]
+    
+    GetSchema["📋 get_schema()<br/>Extract Database Schema<br/>Table: transactions"]
+    
+    UserQ["💬 User Question<br/>'Which color has highest sales?'"]
+    
+    GenSQL["🤖 LLM: generate_sql()<br/>Generate SQL Query V1<br/>From Question + Schema"]
+    
+    ExecV1["⚙️ execute_sql()<br/>Run SQL V1<br/>Against Database"]
+    
+    OutputV1["📊 Display V1 Output<br/>via print_html()"]
+    
+    CheckV1{"❌ Check Result<br/>Is output correct?"}
+    
+    Reflect["🔍 LLM: refine_sql_external_feedback()<br/>Analyze V1 Output<br/>+ Question + Schema"]
+    
+    GenV2["✨ LLM Generates<br/>Refined SQL V2<br/>With Fixes"]
+    
+    ExecV2["⚙️ execute_sql()<br/>Run SQL V2<br/>Against Database"]
+    
+    OutputV2["📊 Display V2 Output<br/>via print_html()"]
+    
+    CheckV2{"✅ Check Result<br/>Is output correct?"}
+    
+    Success(["🎉 SUCCESS!<br/>Correct Answer"])
+    
+    Start --> CreateDB
+    CreateDB --> GetSchema
+    GetSchema --> UserQ
+    UserQ --> GenSQL
+    GenSQL --> ExecV1
+    ExecV1 --> OutputV1
+    OutputV1 --> CheckV1
+    
+    CheckV1 -->|"No: Negative Sales"| Reflect
+    CheckV1 -->|"Yes"| Success
+    
+    Reflect --> GenV2
+    GenV2 --> ExecV2
+    ExecV2 --> OutputV2
+    OutputV2 --> CheckV2
+    
+    CheckV2 -->|"Yes: Positive Sales!"| Success
+    CheckV2 -->|"No: Still Wrong"| Reflect
+    
+    style Start fill:#e1f5ff,stroke:#0288d1,stroke-width:3px
+    style Success fill:#c8e6c9,stroke:#388e3c,stroke-width:3px
+    style CheckV1 fill:#fff3e0,stroke:#f57c00,stroke-width:2px
+    style CheckV2 fill:#fff3e0,stroke:#f57c00,stroke-width:2px
+    style Reflect fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+    style GenSQL fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
+    style GenV2 fill:#e3f2fd,stroke:#1976d2,stroke-width:2px
+    style ExecV1 fill:#fce4ec,stroke:#c2185b,stroke-width:2px
+    style ExecV2 fill:#fce4ec,stroke:#c2185b,stroke-width:2px
